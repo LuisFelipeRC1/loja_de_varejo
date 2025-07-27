@@ -2,6 +2,10 @@
 
 Este projeto simula uma análise de vendas de uma **loja de varejo**, utilizando banco de dados relacional MySQL e conectando os dados ao **Power BI** para criação de dashboards dinâmicos.
 
+Luis Felipe
+Estudante de Dados | Projeto de Estudo
+📅 Julho/2025
+
 ---
 
 ## 🧰 Tecnologias Utilizadas
@@ -40,6 +44,3 @@ CREATE TABLE vendas (...);
 
 )
 
-Luis Felipe
-Estudante de Dados | Projeto de Estudo
-📅 Julho/2025
