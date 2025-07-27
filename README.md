@@ -37,10 +37,7 @@ USE loja_de_varejo;
 CREATE TABLE clientes (...);
 CREATE TABLE produtos (...);
 CREATE TABLE vendas (...);
-Faturamento Total = 
-SUMX(
-  'loja_de_varejo vendas',
-  'loja_de_varejo vendas'[quantidade] * RELATED('loja_de_varejo produtos'[preco])
+
 )
 
 Luis Felipe
